@@ -1,0 +1,33 @@
+_repo: Kristiina-Lauritsantytar-1-of-3-Seppele_61848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Unset, Sigrid
+    - Svarstad, Sigrid Undset
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Sigrid_Undset
+    - https://fi.wikipedia.org/wiki/Sigrid_Undset
+    - https://en.wikipedia.org/wiki/Sigrid_Undset
+description: 'Translation of Kristin Lavransdatter: Kransen'
+gutenberg_issued: '2020-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61848'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Social life and customs -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Women -- Norway -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Kristiina Lauritsantytär 1 (of 3): Seppele'
+url: http://www.gutenberg.org/ebooks/61848
